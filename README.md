@@ -17,4 +17,12 @@
 4. Store-Details | POST | `{{BASE_URL}}/audience-store-trigger/store-details`
 5. Promotion-Details | POST | `{{BASE_URL}}/audience-store-trigger/promotional-details`
 
+    - customer dump
+    - customer order-history
+    - product dump
+    - generating store super profile-saving in SQL
+    - generating customer behaviour-saving in SQL
+    - generating suggestion promotion
+    - confirmation mail trigger
+
 ## 
