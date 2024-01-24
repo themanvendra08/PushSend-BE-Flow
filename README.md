@@ -1,5 +1,10 @@
 # Getting Started With PushSend AI
 
+### BACKEND URL's
+
+- https://pushsend.zysk.in/
+- https://uat-backend.pushsend.ai/
+
 ## Step 1: Seeding the data to database -
 1. Roles - `{{BASE_URL}}/user-trigger/create-role`
 2. Categories & Sub-Categories - `{{BASE_URL}}/audience-store-trigger/category-dump`
